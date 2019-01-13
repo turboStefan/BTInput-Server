@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BTKeyboard Server</string>
+    <string name="connect_button_text">CONNECT</string>
+    <string name="logView_default_text">Start the companion application on your desktop device and tap the connect button to start broadcasting.</string>
+    <string name="keyboard_button_text">KEYBOARD</string>
+    <string name="mouse_button_text">MOUSE</string>
+    <string name="gamepad_button_text">GAMEPAD</string>
+
+    <string name="title_activity_keyboard">KeyboardActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_mouse">MouseActivity</string>
+    <string name="mouse_background_description">mouse background image</string>
+
+    <string name="title_activity_gamepad">GamepadActivity</string>
+    <string name="button1_text">Y</string>
+    <string name="button3_text">A</string>
+    <string name="button2_text">B</string>
+    <string name="button4_text">X</string>
+    <string name="rt_button_text">RT</string>
+    <string name="lt_button_text">LT</string>
+    <string name="lb_button_text">LB</string>
+    <string name="rb_button_text">RB</string>
+    <string name="select_button_text">SELECT</string>
+    <string name="start_button_text">START</string>
+</resources>
